@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_active">Активные</string>
+    <string name="filter_done">Выполненные</string>
+    <string name="no_tasks">Нет задач</string>
+    <string name="no_tasks_hint">Добавьте новую задачу, чтобы начать</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="edit_task">Редактировать задачу</string>
+    <string name="task_title">Название задачи</string>
+    <string name="task_description">Описание задачи</string>
+    <string name="priority">Приоритет</string>
+    <string name="priority_low">Низкий</string>
+    <string name="priority_medium">Средний</string>
+    <string name="priority_high">Высокий</string>
+    <string name="save">Сохранить</string>
+    <string name="title_required">Введите название задачи</string>
+    <string name="task_deleted">Задача удалена</string>
+    <string name="undo">Отменить</string>
+    <string name="task_count">%1$d из %2$d</string>
+    <string name="clear_completed">Удалить выполненные</string>
+    <string name="clear_completed_confirm">Удалить все выполненные задачи?</string>
+    <string name="yes">Да</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete_task">Удалить задачу</string>
+    <string name="task_title_placeholder">Название задачи</string>
+    <string name="task_description_placeholder">Описание задачи</string>
+    <string name="priority_placeholder">Приоритет</string>
+    <string name="mark_done">Готово</string>
+    <string name="mark_active">В работу</string>
+    <string name="task_input_helper">Коротко сформулируй задачу и при необходимости добавь детали ниже.</string>
+    <string name="priority_hint">Выбери приоритет: это влияет на порядок в списке.</string>
+</resources>
